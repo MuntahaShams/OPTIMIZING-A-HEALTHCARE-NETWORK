@@ -1,0 +1,10 @@
+<query schema-version="1.0" lang="en" type="search" sig="likwxW1d5Ih97F6d9NdoL23kquo">
+  <search-config>
+    <text-search>population</text-search>
+    <category-search type="geo" summary-level-code="860" name="ZCTA5 98007"/>
+    <category-search type="geo" summary-level-code="860" name="ZCTA5 98065"/>
+    <category-search type="geo" summary-level-code="860" name="ZCTA5 98104"/>
+    <category-search type="geo" summary-level-code="860" name="ZCTA5 98290"/>
+    <category-search type="geo" summary-level-code="860" name="ZCTA5 98801"/>
+  </search-config>
+</query>
